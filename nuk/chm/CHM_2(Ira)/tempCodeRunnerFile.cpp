@@ -1,0 +1,1 @@
+cout << "[" << count << "]=" << X << endl;
